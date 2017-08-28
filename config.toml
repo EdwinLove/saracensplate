@@ -47,7 +47,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "The Saracen's Plate"
     # Optional logo as brand stored in img/
-    #logo = "logo.svg"
+    logo = "logoblack3.svg"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
@@ -75,14 +75,14 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To Our Cafe!"
-    subtitle = "It's nice to meet you"
-    buttonText = "Tell me more"
+    title = ""
+    subtitle = ""
+    buttonText = ""
 
 
   # Services section
   [params.services]
-    enable = true
+    enable = false
     title = "Services"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
 
@@ -108,7 +108,7 @@ googleAnalytics = ""
 
   # Portfolio section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -135,27 +135,15 @@ googleAnalytics = ""
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "2009-2011"
+      date = "September 2017"
       title = "Our Humble Beginnings"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
-    [[params.about.events]]
-      img = "2.jpg"
-      date = "March 2011"
-      title = "An Agency is Born"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.about.events]]
-      img = "3.jpg"
-      date = "December 2012"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.about.events]]
-      img = "4.jpg"
-      date = "July 2014"
-      title = "Phase Two Expansion"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    #[[params.about.events]]
+    #  img = "2.jpg"
+    #  date = "March 2011"
+    #  title = "An Agency is Born"
+    #  description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 
 
   # Team section
@@ -190,29 +178,20 @@ She worked at Pied Piper for years until they went belly up."""
         ["fa-linkedin", "#"]
       ]
 
-    [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
-      ]
+    #[[params.team.members]]
+    #  img = "2.jpg"
+    #  name = "Larry Parker"
+    #  position = "Lead Marketer"
+    #  social = [
+    #    ["fa-twitter", "#"],
+    #    ["fa-facebook", "#"],
+    #    ["fa-linkedin", "#"]
+    #  ]
 
-    [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
+    
   # Client section
     [params.clients_list]
-      enable = true
+      enable = false
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
