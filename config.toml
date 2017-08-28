@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "The Saracen's Plate"
+  description = "The Saracen's Plate"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -45,7 +45,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "The Agency"
+    brand = "The Saracen's Plate"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
@@ -66,7 +66,7 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
+      url = "https://moosandboos.github.io/saracensplate/"
       name = "External link"
       weight = 10
 
@@ -75,7 +75,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To Our Studio!"
+    title = "Welcome To Our Cafe!"
     subtitle = "It's nice to meet you"
     buttonText = "Tell me more"
 
