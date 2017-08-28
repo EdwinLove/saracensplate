@@ -1,4 +1,4 @@
-baseURL = "http://thesaracensplate.com/"
+baseURL = "http://www.thesaracensplate.com/"
 languageCode = "en-uk"
 title = "The Saracen's Plate"
 theme = "hugo-agency-theme"
@@ -66,7 +66,7 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "https://moosandboos.github.io/saracensplate/"
+      url = "http://www.thesaracensplate.com/"
       name = "External link"
       weight = 10
 
