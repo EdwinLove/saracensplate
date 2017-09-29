@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.thesaracensplate.com" resolutions="1x" timestamp="1506718819575">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.thesaracensplate.com" resolutions="1x" timestamp="1506724298951">
   <folder name="css">
     <file name="site_global.css" crc="4082571653"/>
     <file name="master_a-master.css" crc="214799752" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="388429599" ref="index"/>
-    <file name="nomq_index.css" crc="4274927241" ref="index"/>
+    <file name="index.css" crc="4115543081" ref="index"/>
+    <file name="nomq_index.css" crc="208998130" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -234,16 +234,16 @@
       <file name="index.css" crc="462529124" ref="tablet>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3826087593" seo="true" mt="1506689872493" redirect="true"/>
+    <file name="index.html" crc="3826087593" seo="true" mt="1506722068634" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="261152460" ref="phone>index"/>
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
-      <file name="index.css" crc="4010796838" ref="phone>index"/>
+      <file name="index.css" crc="4095614887" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4142430227" seo="true" mt="1506688261880" redirect="true"/>
+    <file name="index.html" crc="4275398412" seo="true" mt="1506723965818" redirect="true"/>
   </folder>
-  <file name="index.html" crc="409448451" seo="true" mt="1506690671225" redirect="true"/>
+  <file name="index.html" crc="330743567" seo="true" mt="1506724208195" redirect="true"/>
 </manifest>
