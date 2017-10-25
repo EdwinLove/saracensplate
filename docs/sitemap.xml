@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.thesaracensplate.com/index.html</loc>
-    <lastmod>2017-09-30</lastmod>
+    <lastmod>2017-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.thesaracensplate.com/phone/index.html"/>
@@ -99,6 +99,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.thesaracensplate.com/images/scaracens_plate_icons_cutlery_portion.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.thesaracensplate.com/images/scaracen-s-plate-map.gif</image:loc>
     </image:image>
   </url>
 </urlset>

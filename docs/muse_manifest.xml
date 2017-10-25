@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.thesaracensplate.com" resolutions="1x" timestamp="1506767747168">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.thesaracensplate.com" resolutions="1x" timestamp="1508849275065">
   <folder name="css">
     <file name="site_global.css" crc="4082571653"/>
-    <file name="master_a-master.css" crc="214799752" ref="index"/>
+    <file name="master_a-master.css" crc="296891960" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3105000" ref="index"/>
-    <file name="nomq_index.css" crc="4151177283" ref="index"/>
+    <file name="index.css" crc="4094807166" ref="index"/>
+    <file name="nomq_index.css" crc="42861540" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -20,9 +20,9 @@
     <file name="musewpdisclosure.js" crc="3809204180" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="3861931657" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4110044762" ref="tablet>index:index"/>
-    <file name="form_throttle.php" crc="22190333" ref="tablet>index:index"/>
-    <file name="form_process.php" crc="257545537" ref="tablet>index:index"/>
+    <file name="form_check.php" crc="4110044762" ref="tablet>index"/>
+    <file name="form_throttle.php" crc="22190333" ref="tablet>index"/>
+    <file name="form_process.php" crc="257545537" ref="tablet>index"/>
     <file name="form-u9583.php" crc="4259450857" ref="tablet>index"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="tablet>index:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="tablet>index:index"/>
@@ -31,6 +31,8 @@
   </folder>
   <folder name="images">
     <file name="menu_image.jpg" crc="3868180074" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -50,8 +52,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_open.png" crc="4213916565" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -60,8 +64,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_warm welcome.png" crc="266827089" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -70,8 +76,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="scaracens_plate_icons_toastie.png" crc="436705959" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -80,8 +88,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="scaracens_plate_icons_salad leaves.png" crc="495152525" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,8 +100,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="scaracens_plate_icons_cupcake.png" crc="138710514" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -100,8 +112,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="scaracens_plate_icons_dinner dish.png" crc="69691477" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -110,8 +124,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_veg fish meat.png" crc="3874313567" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -120,12 +136,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="moosandboos_logo_bw.png" crc="358003730" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_instagram.png" crc="4030500680" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -134,8 +153,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_facebook.png" crc="514192291" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,36 +173,45 @@
     <file name="the scaracens plate website icons_2_fat splat.png" crc="4122393613" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_apple.png" crc="182093122" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_ava and carrot.png" crc="306388383" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_invested profits.png" crc="3827564171" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_organic.png" crc="23303525" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_tractor.png" crc="148993948" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_conversation.png" crc="147608068" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="the scaracens plate website icons_2_community venue.png" crc="327060323" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="saracensplate-logo.png" crc="3936765742" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -196,24 +226,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="scaracen-s-plate-map.gif" crc="4186945487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4278870093" ref="tablet>index"/>
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="tablet>index"/>
-      <file name="index.css" crc="462529124" ref="tablet>index"/>
+      <file name="index.css" crc="140224839" ref="tablet>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3826087593" seo="true" mt="1506722068634" redirect="true"/>
+    <file name="index.html" crc="282568158" seo="true" mt="1508840754545" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="261152460" ref="phone>index"/>
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
-      <file name="index.css" crc="3906297181" ref="phone>index"/>
+      <file name="index.css" crc="4128935288" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4251481531" seo="true" mt="1506767040831" redirect="true"/>
+    <file name="index.html" crc="166323126" seo="true" mt="1508849079545" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4091474390" seo="true" mt="1506767592219" redirect="true"/>
+  <file name="index.html" crc="77504033" seo="true" mt="1508848997221" redirect="true"/>
 </manifest>
